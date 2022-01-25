@@ -1,0 +1,21 @@
+{
+  "name": "preprocessors",
+  "version": "1.0.0",
+  "description": "preprocessors",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "js"
+  ],
+  "author": "Mônica de Souza Schneider",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1",
+    "pug": "^3.0.2"
+  }
+}
